@@ -72,4 +72,5 @@ contract AddressBook is Ownable {
         // Return the array of all contacts
         return contacts;
     }
-}
+}// updated version
+
